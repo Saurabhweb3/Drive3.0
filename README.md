@@ -1,4 +1,4 @@
-# Hardhat Project
+# DRIVE Project
 
 Try running some of the following tasks:
 
