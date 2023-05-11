@@ -15,6 +15,6 @@ npx hardhat help
 "npm start" in app Directory
 "npx hardhat node" in main directory
 For deploying contract "npx hardhat run scripts/deploy.js" in main directory
-For install node modules:- npm install
+For install node modules:- "npm install"
 ```
 Thats it.
